@@ -7,8 +7,10 @@
 Plugin Name: Simple DKI
 Plugin URI: http://github.com/nlk-plugins/simple-dki
 Description: Quick and Dirty Dynamic Keyword Injection with Shortcode
-Author: chousmith
-Version: 1.0
+Version: 1.0.1
+Author: Ninthlink, Inc.
+Author URI: http://www.ninthlink.com
+License: GPL2
 */
 
 function simple_dki_keyword_shortcode($atts) {

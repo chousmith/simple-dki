@@ -26,6 +26,10 @@ Installation
 Changelog
 ---------
 
+### 1.0.1
+
+Updated author, author URI, and License in the Plugin info
+
 ### 1.0
 
 Initial release
